@@ -1,0 +1,82 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+   
+    font-size: 64px;
+    font-weight: 700;
+}
+
+h2{
+   
+    font-size:48px;
+    font-weight: 700;
+}
+
+p{
+    font-size:24px;
+    font-weight: 400;
+}
+
+
+
+.main{
+    background: #1C3180;
+    color: white;
+    text-align: center;   
+    padding: 20px 0;
+    border-bottom: 9px solid #FE630E;
+}
+
+.practice{
+    
+
+}
+.pac{
+    width: 900px;
+    margin: 0 auto;
+  
+
+}
+.foot{
+    background: #1C3180;
+    padding: 20px 0;
+}
+
+.foot p{
+    color: white;
+    font-size: 24px;
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+}
+h3{
+    font-size:48px;
+    font-weight: 700;
+    color: #FE630E;
+}
+
+p a{
+    color: #FE630E;
+}
+
+.btn{
+    background-color: #FE630E;
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    display: inline-block;
+  
+}
+.button1{
+    background-color: white;
+    color: blue;
+}
